@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+scipy
+openpyxl #required for excel export
